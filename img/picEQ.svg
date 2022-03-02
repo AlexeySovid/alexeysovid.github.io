@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1200" height="630" version="1.1" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient7939" x1="644" x2="644" y1="555" y2="134" gradientTransform="matrix(.99582 0 0 1.0001 -31.835 101.98)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#f2f2f2" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <rect y="620.89" width="1200" height="10" fill="#f8f9fa" stroke-width="0"/>
+  <rect transform="rotate(-90)" x="-620.89" width="636" height="10" fill="#f8f9fa" stroke-width=".25701"/>
+  <path d="m9.9896 620.9s31.938-335 128.77-371.09c99.301-37.002 139.17 63.416 212.4 63.416 73.229 0 155.49-16.942 233.85-28.251 83.15-12.001 193.04-29.5 265.79 67.719 68.534 91.582 134.36-13.301 198.68-13.301 64.323 0 145.52 197.79 145.52 281.51" fill="url(#linearGradient7939)" stroke="#f8f9fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.9994" style="mix-blend-mode:screen"/>
+  <g fill="none" stroke="#f8f9fa" stroke-linecap="round" stroke-linejoin="round">
+   <g stroke-width="10">
+    <circle cx="172.5" cy="242.5" r="13.5"/>
+    <circle cx="351.5" cy="312.5" r="13.5"/>
+    <circle cx="1050.5" cy="339.5" r="13.5"/>
+    <circle cx="915.5" cy="390.5" r="13.5"/>
+    <circle cx="713.5" cy="276.5" r="13.5"/>
+   </g>
+   <path d="m1239 333.23s-133.44-76.998-203-83c-141.98-12.25-116.73-42.932-164.19-66.815-103.62-52.148-435.81 174.81-535.81 174.81-100 0-102-35-186-36-84-1-159 63-159 63" stroke-width="6" style="paint-order:markers fill stroke"/>
+  </g>
+ </g>
+</svg>

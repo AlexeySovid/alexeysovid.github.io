@@ -1,0 +1,72 @@
+.parallax {
+    /* The image used */
+    background-image: url('/img/background.png');
+    /* Set a specific height */
+    min-height: 500px;
+    max-height: 1080px;
+    
+    
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    z-index: 5;
+}
+
+main {
+    background-color: #232323;
+}
+
+h1 > strong{
+    color: #ffffff;
+}
+
+p, h1, h2, h3, h4{
+    color: #fff;
+}
+
+.slogan{
+    margin: 10em auto;
+    
+}
+
+footer{
+    background-color: #f8f9fa;
+    width: 100%;
+}
+
+ul{
+    margin: 0 0;
+}
+
+.snip2{
+    text-align: right;
+}
+
+div.col > p{
+    color: #232323;
+}
+
+div.bg-black > p{
+    color: #fff;
+}
+
+.card{
+    background-color: #fff;
+    border-radius: 10px;
+    min-height: 400px;
+    box-sizing: border-box;
+}
+
+#uslugi{
+    margin-top: 10em;
+}
+
