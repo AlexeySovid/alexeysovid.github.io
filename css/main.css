@@ -1,6 +1,6 @@
 .parallax {
     /* The image used */
-    background-image: url('/img/background.png');
+    background-image: url('../img/background.png');
     /* Set a specific height */
     min-height: 500px;
     max-height: 1080px;
@@ -68,5 +68,9 @@ div.bg-black > p{
 
 #uslugi{
     margin-top: 10em;
+}
+
+.g-4{
+    margin-bottom: 0rem;
 }
 
